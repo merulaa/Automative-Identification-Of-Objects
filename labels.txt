@@ -1,0 +1,7 @@
+0 Blue
+1 Purple
+2 Green
+3 Yellow
+4 Orange
+5 Red
+6 A4 Sheet
